@@ -6,13 +6,12 @@ body{
 /* tipografías */
 #tprincipal{
     font-family: Arial, Helvetica, sans-serif; 
-    color:rgb(241, 241, 241);
+    color:rgb(2, 4, 29);
 }
 
 t1{
     font-size: 50px;
     font-weight: bold;
-    color:rgb(241, 241, 241);
 }
 
 t2{
