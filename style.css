@@ -1,0 +1,30 @@
+/* fondo */
+body{
+   background-color: rgb(194, 191, 248);
+}
+
+/* tipografías */
+#tprincipal{
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(241, 241, 241);
+}
+
+t1{
+    font-size: 50px;
+    font-weight: bold;
+    color:rgb(241, 241, 241);
+}
+
+t2{
+    font-size:35px;
+    font-weight: normal;
+}
+tg{
+    font: size 18px;
+    font-weight: lighter;
+}
+
+tnombre{
+    font: size 18px;
+    font-weight: bold;
+}
