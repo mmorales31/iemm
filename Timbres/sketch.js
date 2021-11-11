@@ -1,7 +1,7 @@
 let clicks = 0;
 
 function setup() {
-  createCanvas(windowWidth, 400);
+  createCanvas(windowWidth, 600);
   background(200);
   rectMode(CENTER);
   ellipseMode(CENTER);

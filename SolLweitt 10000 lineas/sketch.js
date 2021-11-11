@@ -8,7 +8,7 @@
 let m = 10; // el margen
 
 function setup() {
-  createCanvas(500, 500);
+  createCanvas(windowWidth, 500);
   noLoop(); // que se ejecute una sola vez
   stroke(0,100);
 }
