@@ -12,7 +12,7 @@ function setup() {
   noCursor();
   background("orange")
   s = createSlider(20,880,10,1);
-  ss = createSlider (20,1280,10,1);
+  ss = createSlider (20,1680,10,1);
 }
 
 
