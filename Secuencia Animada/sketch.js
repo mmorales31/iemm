@@ -6,7 +6,7 @@ function setup() {
   span = 500 ;
   current = 0;
 
-  createCanvas(500, 500);
+  createCanvas(windowWidth, 600);
 
   background(0);
   stroke(200);
